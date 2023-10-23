@@ -27,7 +27,7 @@ Ergonomiczna klawiatura (zaadaptowana pod inny kontroler oraz przeprojektowana p
 
 <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/95d13b6a-2e60-47d8-9c84-f65240bd01b3 width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/1f43b022-6477-41f0-b425-813ddadf4888 width="40%" height="40%"/>
 
-Elementy plastikowe w dronie zaprojektowane pod zmieszczenie dodatkowych komponentów
+Elementy plastikowe w dronie zaprojektowane pod zmieszczenie dodatkowych komponentów (i lepszy wygląd)
 
 
 <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/6c878f42-bdab-4668-9714-18edac10235d width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/e887cb03-c675-42dd-8b4e-643b7d27f6f3 width="40%" height="40%"/>
