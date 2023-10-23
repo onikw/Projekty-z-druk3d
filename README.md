@@ -20,6 +20,15 @@ Zegarek binarny (własny projekt obudowy, wykonanie etc. natomiast schemat z sie
 
 Zegar na lampy NIXIE (własny projekt obudowy, wykonanie etc. natomiast schemat z sieci) 
 
-<img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/bd52e806-6087-4c75-bdca-ce3fd8dae422 width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/e63f733b-4c16-4d1a-bf38-00d257971360 width="40%" height="40%"/>
 
 <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/e4179c5e-9c26-4977-8a05-df2e0a35802e width="40%" height="40%"/>
+
+Ergonomiczna klawiatura (zaadaptowana pod inny kontroler oraz przeprojektowana podstawa wraz z nóżkami z tpu)
+
+<img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/95d13b6a-2e60-47d8-9c84-f65240bd01b3 width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/1f43b022-6477-41f0-b425-813ddadf4888 width="40%" height="40%"/>
+
+Elementy plastikowe w dronie zaprojektowane pod zmieszczenie dodatkowych komponentów
+
+
+<img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/6c878f42-bdab-4668-9714-18edac10235d width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/e887cb03-c675-42dd-8b4e-643b7d27f6f3 width="40%" height="40%"/>
+
