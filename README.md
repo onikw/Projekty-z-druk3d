@@ -17,3 +17,9 @@ Zegarek binarny (własny projekt obudowy, wykonanie etc. natomiast schemat z sie
 <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/bd576ccd-2593-4ea9-9479-a6e76101fa97 width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/cece20de-23c0-4bdf-b39a-445800e42cae width="40%" height="40%"/>
 
 <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/c3812911-8b7d-4a13-bb7f-a623bec1930f width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/1f3274f4-a2ba-45ed-b2c9-f2150416a44d width="40%" height="40%"/>
+
+Zegar na lampy NIXIE (jak w binarnym)
+
+<img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/bd52e806-6087-4c75-bdca-ce3fd8dae422 width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/e63f733b-4c16-4d1a-bf38-00d257971360 width="40%" height="40%"/>
+
+<img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/e4179c5e-9c26-4977-8a05-df2e0a35802e width="40%" height="40%"/>
