@@ -8,5 +8,11 @@ Przerbiony ender3 na vorona SW. Około 40% części projektu własnego.
 
 Zbudowany od zera voron 0
 
-<img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/8d319b60-1ddd-4653-bf40-a2609645dbc3 width="90%" height="90%"/>
+Zegarek binarny (własny projekt obudowy, wykonanie etc. natomiast schemat z sieci) 
 
+
+
+<img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/bd576ccd-2593-4ea9-9479-a6e76101fa97 width="40%" height="40%"/> <img src=https://github.com/onikw/Projekty-z-druk3d/assets/148722173/1f3274f4-a2ba-45ed-b2c9-f2150416a44d width="40%" height="40%"/>
+
+![zegbinnieb1](https://github.com/onikw/Projekty-z-druk3d/assets/148722173/c3812911-8b7d-4a13-bb7f-a623bec1930f)
+![zegbinczer2](https://github.com/onikw/Projekty-z-druk3d/assets/148722173/cece20de-23c0-4bdf-b39a-445800e42cae)
