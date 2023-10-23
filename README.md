@@ -1,3 +1,6 @@
+Kilka moich projektów związanych z drukiem 3d 
+
+
 Przerbiony ender3 na vorona SW. Około 40% części projektu własnego.
 
 
